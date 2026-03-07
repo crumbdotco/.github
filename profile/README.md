@@ -1,12 +1,26 @@
-## Hi there 👋
+# crumb
 
-<!--
+Hi, we are building crumb.
 
-**Here are some ideas to get you started:**
+Crumb provides insight into your most listened songs and artists, with a choice of different periods.
+What makes this app unique is that you can track your streaming history and view the amount of times you’ve played a song or artist!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can download crumb via the [Google Play Store](placeholder) and [Apple App Store](placeholder).
+Apart from that we are working on a website on which you can view your statistics too, [placeholder](placeholder). Keep in mind that the site is still in development and not finished yet.
+
+## Contributing & support
+
+You can contribute by translating the mobile application to more languages [here](placeholder, APP LANGUAGE TRANSLATIONHERE).
+
+We also have a support documentation over at [PLACEHOLDER](PLACEHOLDER).
+
+## Communities & socials
+> Make sure to follow and join the crumb communities!
+
+Instagram: TBC
+
+Twitter: TBC
+
+Reddit: TBC
+
+Discord: [![Discord invite]](PLACEHOLDER)
