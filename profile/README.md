@@ -21,6 +21,6 @@ Instagram: TBC
 
 Twitter: TBC
 
-Reddit: TBC
+Tiktok: TBC
 
 Discord: [![Discord invite]](PLACEHOLDER)
