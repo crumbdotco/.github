@@ -19,8 +19,8 @@ We also have a support documentation over at [PLACEHOLDER](PLACEHOLDER).
 
 Instagram: [Here](https://www.instagram.com/crumbify.co.uk/)
 
-Twitter: TBC
+Twitter: [Here](https://x.com/crumbifyco)
 
-Tiktok: TBC
+Tiktok: [Here](https://www.tiktok.com/@crumbifyco)
 
 Discord: [![Discord invite]](PLACEHOLDER)
