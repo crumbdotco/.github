@@ -17,7 +17,7 @@ We also have a support documentation over at [PLACEHOLDER](PLACEHOLDER).
 ## Communities & socials
 > Make sure to follow and join the crumb communities!
 
-Instagram: TBC
+Instagram: [TBC](https://www.instagram.com/crumbify.co.uk/)
 
 Twitter: TBC
 
