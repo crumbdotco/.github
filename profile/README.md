@@ -1,11 +1,11 @@
-# Crumb
+# Crumbify
 
-Hi, we are building crumb.
+Hi, we are building crumbify.
 
-Crumb provides insight into your most ordered food and drinks, with a choice of different periods.
+Crumbify provides insight into your most ordered food and drinks, with a choice of different periods.
 What makes this app unique is that you can track your order history and view your stats like never before!
 
-You can download crumb via the [Google Play Store](placeholder) and [Apple App Store](placeholder).
+You can download crumbify via the [Google Play Store](placeholder) and [Apple App Store](placeholder).
 Apart from that we are working on a website on which you can view your statistics too, [placeholder](placeholder). Keep in mind that the site is still in development and not finished yet.
 
 ## Contributing & support
